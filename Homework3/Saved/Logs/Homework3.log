@@ -767,3 +767,1014 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.10.10-22.21.36:493][578]BlueprintLog: New page: Compile BP_CharacterHoomework3
 [2020.10.10-22.21.37:029][578]LogUObjectHash: Compacting FUObjectHashTables data took  10.42ms
 [2020.10.10-22.28.07:485][350]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_CharacterHoomework31E19F04B4CF7D3D701F280814FF77C3E.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_CharacterHoomework3.uasset'
+[2020.10.10-22.34.34:867][136]LogRenderer: Reallocating scene render targets to support 1116x708 Format 10 NumSamples 1 (Frame:930).
+[2020.10.10-22.34.39:992][436]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3
+[2020.10.10-22.34.40:021][436]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.10-22.34.40:477][436]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.10-22.34.40:852][436]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-22.35.57:885][851]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2020.10.10-22.35.57:886][851]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2020.10.10-22.35.57:887][851]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Homework3/BP_AnimHomework3] ([1] browsable assets)...
+[2020.10.10-22.35.57:905][851]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3]
+[2020.10.10-22.35.57:905][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Homework3/BP_AnimHomework3]
+[2020.10.10-22.35.57:951][851]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3_Auto4A940EF9E454645892CDDF7A216309361.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/Autosaves/Game/BP_Homework3/BP_AnimHomework3_Auto4.uasset'
+[2020.10.10-22.35.57:953][851]LogFileHelpers: Auto-saving content packages took 0.066
+[2020.10.10-22.37.17:572][759]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework36D34708341E7312D51D24496230A21EE.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-22.37.18:104][790]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-22.37.18:108][790]LogBlueprint: Warning: [Compiler BP_AnimHomework3] Idle to Crouch_Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-22.37.18:109][790]LogBlueprint: Warning: [Compiler BP_AnimHomework3] Crouch_Idle to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-22.37.18:273][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0166
+[2020.10.10-22.37.18:273][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019C
+[2020.10.10-22.37.18:273][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0083
+[2020.10.10-22.37.18:274][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0166
+[2020.10.10-22.37.18:274][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019C
+[2020.10.10-22.37.18:274][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0083
+[2020.10.10-22.37.18:314][790]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.10.10-22.37.18:318][790]LogBlueprint: Warning: [Compiler BP_AnimHomework3] [7315.77] Compile of BP_AnimHomework3 successful, but with 2 Warning(s) [in 213 ms] (/Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3)
+[2020.10.10-22.37.18:325][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0166
+[2020.10.10-22.37.18:325][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019C
+[2020.10.10-22.37.18:325][790]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0083
+[2020.10.10-22.37.18:349][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0166
+[2020.10.10-22.37.18:349][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019C
+[2020.10.10-22.37.18:349][791]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0083
+[2020.10.10-22.37.18:488][792]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0166
+[2020.10.10-22.37.18:488][792]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019C
+[2020.10.10-22.37.18:488][792]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0083
+[2020.10.10-22.37.18:502][793]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0166
+[2020.10.10-22.37.18:502][793]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019C
+[2020.10.10-22.44.10:705][967]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-22.44.10:710][967]LogBlueprint: Warning: [Compiler BP_AnimHomework3] Idle to Crouch_Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-22.44.10:710][967]LogBlueprint: Warning: [Compiler BP_AnimHomework3] Crouch_Idle to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-22.44.10:879][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.44.10:879][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0104
+[2020.10.10-22.44.10:879][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.44.10:879][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.44.10:879][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0104
+[2020.10.10-22.44.10:879][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.44.10:921][967]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.10.10-22.44.10:927][967]LogBlueprint: Warning: [Compiler BP_AnimHomework3] [7728.38] Compile of BP_AnimHomework3 successful, but with 2 Warning(s) [in 222 ms] (/Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3)
+[2020.10.10-22.44.10:931][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.44.10:931][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0104
+[2020.10.10-22.44.10:931][967]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.44.10:960][968]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.44.10:960][968]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0104
+[2020.10.10-22.44.10:960][968]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.44.10:976][969]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.44.10:976][969]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0104
+[2020.10.10-22.44.10:976][969]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.44.11:086][970]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.44.11:086][970]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_2
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0104
+[2020.10.10-22.45.27:081][113]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-22.45.27:086][113]LogBlueprint: Warning: [Compiler BP_AnimHomework3] Crouch_Idle to Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-22.45.27:252][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.45.27:252][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.45.27:252][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.45.27:252][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.45.27:252][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.45.27:252][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.45.27:295][113]LogUObjectHash: Compacting FUObjectHashTables data took   4.97ms
+[2020.10.10-22.45.27:301][113]LogBlueprint: Warning: [Compiler BP_AnimHomework3] [7804.75] Compile of BP_AnimHomework3 successful, but with 1 Warning(s) [in 219 ms] (/Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3)
+[2020.10.10-22.45.27:304][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.45.27:304][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.45.27:304][113]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.45.27:327][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.45.27:327][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.45.27:327][114]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.45.27:343][115]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.45.27:343][115]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.45.27:343][115]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.45.27:455][116]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.45.27:455][116]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_3
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.51:972][903]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-22.46.52:162][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.46.52:162][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.52:162][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.46.52:162][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.46.52:162][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.52:162][903]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.46.52:204][903]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.10.10-22.46.52:246][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.46.52:246][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.52:246][905]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.46.52:348][906]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.46.52:348][906]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.52:348][906]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.46.52:375][907]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.46.52:375][907]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.52:375][907]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.46.52:402][908]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.46.52:402][908]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_4
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.46.52:823][928]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework348C247964D259191E5E04FB96EDD14FB.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-22.46.54:178][  9]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-22.46.54:192][  9]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.46.54:192][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-22.46.54:192][  9]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 2:46:54 PM)
+[2020.10.10-22.46.54:192][  9]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-22.46.54:214][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022143s)
+[2020.10.10-22.46.54:215][  9]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-22.46.54:216][  9]LogPlayLevel: PIE: World Init took: (0.001274s)
+[2020.10.10-22.46.54:216][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023669s)
+[2020.10.10-22.46.54:266][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2020.10.10-22.46.54:300][  9]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-22.46.54:337][  9]LogInit: FAudioDevice initialized.
+[2020.10.10-22.46.54:349][  9]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.46.54:386][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-22.46.54:390][  9]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-18.46.54
+[2020.10.10-22.46.54:390][  9]LogWorld: Bringing up level for play took: 0.002196
+[2020.10.10-22.46.54:407][  9]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0
+[2020.10.10-22.46.54:408][  9]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.14:348][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.14:349][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.47.14:358][199]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-22.47.14:391][199]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-22.47.14:391][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.14:442][199]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2020.10.10-22.47.14:456][200]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.10.10-22.47.21:579][413]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-22.47.21:603][413]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.21:603][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-22.47.21:603][413]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 2:47:21 PM)
+[2020.10.10-22.47.21:604][413]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-22.47.21:623][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018829s)
+[2020.10.10-22.47.21:623][413]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-22.47.21:625][413]LogPlayLevel: PIE: World Init took: (0.002040s)
+[2020.10.10-22.47.21:625][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021183s)
+[2020.10.10-22.47.21:678][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.10-22.47.21:704][413]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-22.47.21:738][413]LogInit: FAudioDevice initialized.
+[2020.10.10-22.47.21:748][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.47.21:779][413]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-22.47.21:780][413]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-18.47.21
+[2020.10.10-22.47.21:780][413]LogWorld: Bringing up level for play took: 0.001047
+[2020.10.10-22.47.21:796][413]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.61
+[2020.10.10-22.47.21:797][413]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.28:059][778]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.28:059][778]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.47.28:068][778]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-22.47.28:105][778]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-22.47.28:105][778]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.28:156][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.10.10-22.47.28:165][779]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.10.10-22.47.49:475][740]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-22.47.49:489][740]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.49:489][740]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.10-22.47.49:490][740]LogPlayLevel: [PlayLevel] Compiling BP_AnimHomework3 before play...
+[2020.10.10-22.47.49:658][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.47.49:658][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.47.49:658][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.47.49:658][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.47.49:658][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.47.49:658][740]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.47.49:700][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.10.10-22.47.49:700][740]LogPlayLevel: PlayLevel: Blueprint regeneration took 211 ms (1 blueprints)
+[2020.10.10-22.47.49:701][740]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 2:47:49 PM)
+[2020.10.10-22.47.49:701][740]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-22.47.49:713][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012712s)
+[2020.10.10-22.47.49:715][740]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-22.47.49:715][740]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2020.10.10-22.47.49:715][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014526s)
+[2020.10.10-22.47.49:760][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.10.10-22.47.49:785][740]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-22.47.49:818][740]LogInit: FAudioDevice initialized.
+[2020.10.10-22.47.49:828][740]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.47.49:859][740]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-22.47.49:860][740]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-18.47.49
+[2020.10.10-22.47.49:861][740]LogWorld: Bringing up level for play took: 0.001036
+[2020.10.10-22.47.49:876][740]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.531
+[2020.10.10-22.47.49:877][740]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.50:061][742]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.47.50:061][742]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.47.50:061][742]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.47.50:160][743]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.47.50:160][743]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.47.50:160][743]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.47.50:176][744]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.47.50:176][744]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.47.50:177][744]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.47.50:192][745]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.47.50:192][745]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_5
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.47.52:063][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.52:063][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.47.52:072][857]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-22.47.52:109][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-22.47.52:109][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.52:157][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.10.10-22.47.52:170][858]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.10-22.47.54:603][  1]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-22.47.54:619][  1]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.47.54:619][  1]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-22.47.54:619][  1]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 2:47:54 PM)
+[2020.10.10-22.47.54:620][  1]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-22.47.54:634][  1]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014364s)
+[2020.10.10-22.47.54:634][  1]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-22.47.54:635][  1]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2020.10.10-22.47.54:635][  1]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015139s)
+[2020.10.10-22.47.54:670][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2020.10.10-22.47.54:697][  1]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-22.47.54:731][  1]LogInit: FAudioDevice initialized.
+[2020.10.10-22.47.54:742][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.47.54:774][  1]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-22.47.54:776][  1]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-18.47.54
+[2020.10.10-22.47.54:777][  1]LogWorld: Bringing up level for play took: 0.001107
+[2020.10.10-22.47.54:793][  1]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.385
+[2020.10.10-22.47.54:793][  1]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.48.00:573][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.48.00:573][338]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.48.00:584][338]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-22.48.00:620][338]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-22.48.00:621][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.48.00:674][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.10.10-22.48.00:686][339]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.10-22.50.29:735][384]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework34F57F1664860C7FB35006E8A28434D14.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-22.50.29:936][391]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework37DD48D0C42F9A8DF2ABDE995A398291E.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-22.50.36:521][782]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-22.50.36:538][782]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.50.36:538][782]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-22.50.36:538][782]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 2:50:36 PM)
+[2020.10.10-22.50.36:538][782]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-22.50.36:553][782]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014712s)
+[2020.10.10-22.50.36:554][782]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-22.50.36:554][782]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2020.10.10-22.50.36:554][782]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015601s)
+[2020.10.10-22.50.36:595][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.10.10-22.50.36:623][782]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-22.50.36:657][782]LogInit: FAudioDevice initialized.
+[2020.10.10-22.50.36:694][782]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-22.50.36:696][782]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-18.50.36
+[2020.10.10-22.50.36:696][782]LogWorld: Bringing up level for play took: 0.000770
+[2020.10.10-22.50.36:710][782]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.303
+[2020.10.10-22.50.36:711][782]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.50.47:380][417]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.50.47:381][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.50.47:411][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-22.50.47:411][417]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.50.47:476][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.50.47:481][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.10.10-22.50.47:517][418]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2020.10.10-22.50.49:275][522]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.10-22.50.55:920][916]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework345C826F942B4CFE7D4117FB28291236B.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-22.53.06:980][887]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-22.53.06:999][887]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.53.06:999][887]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.10-22.53.06:999][887]LogPlayLevel: [PlayLevel] Compiling BP_AnimHomework3 before play...
+[2020.10.10-22.53.07:171][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.53.07:171][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.53.07:171][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.53.07:171][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.53.07:171][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.53.07:171][887]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.53.07:214][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2020.10.10-22.53.07:214][887]LogPlayLevel: PlayLevel: Blueprint regeneration took 215 ms (1 blueprints)
+[2020.10.10-22.53.07:214][887]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 2:53:07 PM)
+[2020.10.10-22.53.07:214][887]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-22.53.07:227][887]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012715s)
+[2020.10.10-22.53.07:228][887]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-22.53.07:228][887]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2020.10.10-22.53.07:228][887]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.013961s)
+[2020.10.10-22.53.07:264][887]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.10-22.53.07:292][887]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-22.53.07:325][887]LogInit: FAudioDevice initialized.
+[2020.10.10-22.53.07:336][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.53.07:367][887]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-22.53.07:369][887]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-18.53.07
+[2020.10.10-22.53.07:370][887]LogWorld: Bringing up level for play took: 0.001424
+[2020.10.10-22.53.07:385][887]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.977
+[2020.10.10-22.53.07:385][887]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.53.07:544][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.53.07:545][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.53.07:545][889]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.53.07:688][890]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.53.07:688][890]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.53.07:688][890]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.53.07:715][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.53.07:715][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.53.07:715][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0199
+[2020.10.10-22.53.07:731][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00CE
+[2020.10.10-22.53.07:731][892]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_6
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0100
+[2020.10.10-22.53.24:471][896]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.53.24:471][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-22.53.24:480][896]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-22.53.24:519][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-22.53.24:519][896]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-22.53.24:567][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.10.10-22.53.24:583][897]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.10-22.54.28:875][778]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3BF9F8A264FAE9729C2BC678D22C5EC74.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-23.29.47:486][863]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.10.10-23.30.13:668][683]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BP_Homework3/BS_Crouch.BS_Crouch
+[2020.10.10-23.30.13:686][683]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.10-23.30.13:722][683]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.10-23.30.17:292][870]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-23.30.17:576][887]LogSlate: Window 'BS_Crouch' being destroyed
+[2020.10.10-23.33.04:040][987]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.10-23.33.04:521][ 16]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-23.34.54:474][ 94]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.10-23.34.56:577][220]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-23.34.57:522][276]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2020.10.10-23.34.59:287][382]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.10-23.34.59:922][420]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-23.35.06:956][842]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2020.10.10-23.35.06:956][842]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle) using current/default (AnimCompress_BitwiseCompressOnly_54) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.10.10-23.36.00:493][342]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Homework3/BS_Crouch" FILE="../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BS_Crouch.uasset" SILENT=true
+[2020.10.10-23.36.00:508][342]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BS_CrouchC2C16487497E62D12DB811B921C8A6DE.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BS_Crouch.uasset'
+[2020.10.10-23.38.16:533][767]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3
+[2020.10.10-23.38.16:558][767]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.10-23.38.16:960][767]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.10-23.38.17:387][767]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-23.39.46:141][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Homework3/BS_Crouch" FILE="../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BS_Crouch.uasset" SILENT=true
+[2020.10.10-23.39.46:151][406]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BS_CrouchFDC475204DE0E2B27DD689AA5CA6D165.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BS_Crouch.uasset'
+[2020.10.10-23.39.46:300][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Homework3/BS_Crouch" FILE="../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BS_Crouch.uasset" SILENT=true
+[2020.10.10-23.39.46:308][413]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BS_Crouch74753F734C128FCBABC194A443DFC028.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BS_Crouch.uasset'
+[2020.10.10-23.40.02:206][355]LogContentBrowser: Verbose: The majority of assets in the view are of type: BlendSpace
+[2020.10.10-23.40.05:210][535]LogAssetEditorManager: Opening Asset editor for BlendSpace /Game/BP_Homework3/BS_Crouch.BS_Crouch
+[2020.10.10-23.40.05:244][535]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.10-23.40.05:264][535]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.10-23.40.05:557][535]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.10-23.41.56:936][891]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-23.41.56:942][891]LogBlueprint: Warning: [Compiler BP_AnimHomework3] BS_Crouch to Crouch_Idle  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-23.41.56:942][891]LogBlueprint: Warning: [Compiler BP_AnimHomework3] Crouch_Idle to BS_Crouch  will never be taken, please connect something to  Can Enter Transition
+[2020.10.10-23.41.57:209][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_7
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:00D3
+[2020.10.10-23.41.57:209][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_7
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0109
+[2020.10.10-23.41.57:210][891]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_7
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019E
+[2020.10.10-23.41.57:281][891]LogUObjectHash: Compacting FUObjectHashTables data took   7.61ms
+[2020.10.10-23.41.57:289][891]LogBlueprint: Warning: [Compiler BP_AnimHomework3] [1194.74] Compile of BP_AnimHomework3 successful, but with 2 Warning(s) [in 352 ms] (/Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3)
+[2020.10.10-23.43.59:230][850]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework30F52CB254D05C2BE4DFAF7B18E752D2A.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-23.43.59:474][860]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-23.43.59:652][860]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_8
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01AD
+[2020.10.10-23.43.59:652][860]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_8
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01DF
+[2020.10.10-23.43.59:652][860]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_8
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0278
+[2020.10.10-23.43.59:695][860]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.10.10-23.44.00:466][902]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-23.44.00:480][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.44.00:480][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-23.44.00:480][902]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 3:44:00 PM)
+[2020.10.10-23.44.00:480][902]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-23.44.00:502][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021601s)
+[2020.10.10-23.44.00:503][902]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-23.44.00:503][902]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2020.10.10-23.44.00:503][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.022906s)
+[2020.10.10-23.44.00:554][902]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.10.10-23.44.00:588][902]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-23.44.00:623][902]LogInit: FAudioDevice initialized.
+[2020.10.10-23.44.00:636][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-23.44.00:667][902]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-23.44.00:670][902]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-19.44.00
+[2020.10.10-23.44.00:670][902]LogWorld: Bringing up level for play took: 0.002150
+[2020.10.10-23.44.00:687][902]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.28
+[2020.10.10-23.44.00:687][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.44.20:901][ 99]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.44.20:901][ 99]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-23.44.20:909][ 99]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-23.44.20:944][ 99]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-23.44.20:944][ 99]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.44.20:996][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.10.10-23.44.21:013][100]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2020.10.10-23.45.48:386][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.10.10-23.45.48:386][163]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.049
+[2020.10.10-23.45.48:388][163]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Homework3/BP_AnimHomework3] ([1] browsable assets)...
+[2020.10.10-23.45.48:422][163]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3]
+[2020.10.10-23.45.48:422][163]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Homework3/BP_AnimHomework3]
+[2020.10.10-23.45.48:510][163]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3_Auto51EBD4B924BF00872DCF902BC59736E34.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/Autosaves/Game/BP_Homework3/BP_AnimHomework3_Auto5.uasset'
+[2020.10.10-23.45.48:511][163]LogFileHelpers: Auto-saving content packages took 0.123
+[2020.10.10-23.48.31:598][548]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-23.48.31:784][548]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_9
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B2
+[2020.10.10-23.48.31:784][548]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_9
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01E8
+[2020.10.10-23.48.31:784][548]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_9
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:011D
+[2020.10.10-23.48.31:828][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2020.10.10-23.48.32:780][599]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-23.48.32:795][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.48.32:795][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-23.48.32:795][599]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 3:48:32 PM)
+[2020.10.10-23.48.32:795][599]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-23.48.32:810][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014419s)
+[2020.10.10-23.48.32:810][599]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-23.48.32:811][599]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2020.10.10-23.48.32:811][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015434s)
+[2020.10.10-23.48.32:859][599]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.10.10-23.48.32:889][599]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-23.48.32:922][599]LogInit: FAudioDevice initialized.
+[2020.10.10-23.48.32:932][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-23.48.32:961][599]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-23.48.32:963][599]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-19.48.32
+[2020.10.10-23.48.32:964][599]LogWorld: Bringing up level for play took: 0.001614
+[2020.10.10-23.48.32:979][599]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.572
+[2020.10.10-23.48.32:979][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.48.53:374][813]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.48.53:375][813]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-23.48.53:384][813]LogSlate: Window 'Homework3 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.10.10-23.48.53:423][813]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-23.48.53:423][813]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.48.53:472][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.10.10-23.48.53:489][814]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.10.10-23.49.56:012][522]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.10-23.49.56:183][522]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_10
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:016B
+[2020.10.10-23.49.56:183][522]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_10
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:019D
+[2020.10.10-23.49.56:183][522]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_3:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_10
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:0236
+[2020.10.10-23.49.56:225][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.10.10-23.49.56:523][527]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3BE6743584DBA5068EE8E9E9833DE0530.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.10-23.50.01:786][837]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.10-23.50.01:799][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.50.01:799][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.10-23.50.01:799][837]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 10, 2020, 3:50:01 PM)
+[2020.10.10-23.50.01:799][837]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.10.10-23.50.01:813][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014184s)
+[2020.10.10-23.50.01:813][837]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.10.10-23.50.01:814][837]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2020.10.10-23.50.01:814][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015170s)
+[2020.10.10-23.50.01:866][837]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.10.10-23.50.01:899][837]LogInit: XAudio2 using 'Speakers (3- ROCCAT Khan AIMO)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2020.10.10-23.50.01:934][837]LogInit: FAudioDevice initialized.
+[2020.10.10-23.50.01:968][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.10.10-23.50.01:970][837]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.10.10-19.50.01
+[2020.10.10-23.50.01:970][837]LogWorld: Bringing up level for play took: 0.000750
+[2020.10.10-23.50.01:984][837]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.423
+[2020.10.10-23.50.01:985][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.50.14:351][565]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.50.14:351][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-23.50.14:412][565]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.10-23.50.14:413][565]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.10.10-23.50.14:474][565]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.10-23.50.14:479][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.10.10-23.50.14:521][566]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.10.10-23.50.16:493][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.10.10-23.50.29:536][459]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework39D2D3A0F49184F1CCD9811BAC3E7C57D.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.11-05.04.38:880][ 18]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_CharacterHoomework3C534351D446957AD25E16AAE07F91C4B.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_CharacterHoomework3.uasset'
+[2020.10.11-05.04.40:384][ 83]LogUObjectHash: Compacting FUObjectHashTables data took  17.41ms
+[2020.10.11-05.04.40:674][ 83]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/ThirdPersonExampleMapD78502BE4CE7EE3F24EC92BC895A9A7F.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.11-05.04.40:981][ 83]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/ThirdPersonExampleMap_BuiltDataE0A2C3FE4E8BE7BC8D53C99C3A30FB9D.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.10.11-05.04.41:504][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.10.11-05.04.41:783][105]LogSlate: Window 'Homework3 - Unreal Editor' being destroyed
+[2020.10.11-05.04.41:786][105]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.11-05.04.42:109][106]Cmd: QUIT_EDITOR
+[2020.10.11-05.04.43:103][106]LogExit: Preparing to exit.
+[2020.10.11-05.04.44:147][106]LogExit: Editor shut down
+[2020.10.11-05.04.44:148][106]LogExit: Transaction tracking system shut down
+[2020.10.11-05.04.44:730][106]LogExit: Object subsystem successfully closed.
+[2020.10.11-05.04.44:757][106]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.10.11-05.04.44:772][106]LogD3D11RHI: Shutdown
+[2020.10.11-05.04.44:772][106]LogD3D11RHI: CleanupD3DDevice
+[2020.10.11-05.04.44:776][106]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.11-05.04.44:776][106]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.11-05.04.44:776][106]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.11-05.04.44:776][106]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.11-05.04.44:776][106]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.10.11-05.04.44:776][106]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.10.11-05.04.45:021][106]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (656)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module Voice (654)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (652)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module AnimationEditor (650)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module BlueprintGraph (648)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module PinnedCommandList (646)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module SkeletonEditor (644)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (642)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module SceneOutliner (640)
+[2020.10.11-05.04.45:059][106]LogModuleManager: Shutting down and abandoning module AddContentDialog (638)
+[2020.10.11-05.04.45:062][106]LogModuleManager: Shutting down and abandoning module WidgetCarousel (637)
+[2020.10.11-05.04.45:062][106]LogModuleManager: Shutting down and abandoning module EditorWidgets (634)
+[2020.10.11-05.04.45:062][106]LogModuleManager: Shutting down and abandoning module CollectionManager (632)
+[2020.10.11-05.04.45:062][106]LogModuleManager: Shutting down and abandoning module StatsViewer (630)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.10.11-05.04.45:063][106]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.10.11-05.04.45:064][106]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.10.11-05.04.45:065][106]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.10.11-05.04.45:066][106]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.10.11-05.04.45:066][106]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.10.11-05.04.45:066][106]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.10.11-05.04.45:066][106]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.10.11-05.04.45:066][106]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.10.11-05.04.45:066][106]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.10.11-05.04.46:411][106]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.10.11-05.04.46:411][106]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.10.11-05.04.46:411][106]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.10.11-05.04.46:411][106]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.10.11-05.04.46:411][106]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.10.11-05.04.46:412][106]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.10.11-05.04.46:413][106]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.10.11-05.04.46:457][106]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.10.11-05.04.46:484][106]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.10.11-05.04.46:487][106]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.10.11-05.04.46:491][106]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.10.11-05.04.46:703][106]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.10.11-05.04.46:704][106]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.10.11-05.04.46:705][106]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.10.11-05.04.46:706][106]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.10.11-05.04.46:706][106]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.10.11-05.04.46:706][106]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.10.11-05.04.46:706][106]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.10.11-05.04.46:706][106]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.10.11-05.04.46:706][106]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.10.11-05.04.46:709][106]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.10.11-05.04.46:827][106]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.10.11-05.04.46:929][106]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.10.11-05.04.46:929][106]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.10.11-05.04.46:929][106]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.10.11-05.04.46:929][106]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.10.11-05.04.46:929][106]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.10.11-05.04.46:929][106]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.10.11-05.04.46:929][106]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.10.11-05.04.46:930][106]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.10.11-05.04.46:933][106]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.10.11-05.04.46:934][106]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.10.11-05.04.46:934][106]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.10.11-05.04.46:934][106]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.10.11-05.04.46:935][106]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.10.11-05.04.46:938][106]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.10.11-05.04.46:938][106]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.10.11-05.04.46:939][106]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.10.11-05.04.46:940][106]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.10.11-05.04.46:940][106]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.10.11-05.04.46:940][106]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.10.11-05.04.46:940][106]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.10.11-05.04.46:943][106]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.10.11-05.04.46:944][106]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.10.11-05.04.46:994][106]LogDerivedDataCache: Shutdown
+[2020.10.11-05.04.46:994][106]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.10.11-05.04.46:995][106]LogXGEController: Cleaning working directory: C:/Users/sttau/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.10.11-05.04.46:995][106]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.10.11-05.04.46:996][106]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.10.11-05.04.47:007][106]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.10.11-05.04.47:007][106]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.10.11-05.04.47:008][106]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.10.11-05.04.47:008][106]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.10.11-05.04.47:008][106]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.10.11-05.04.47:012][106]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.10.11-05.04.47:013][106]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.10.11-05.04.47:018][106]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.10.11-05.04.47:018][106]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.10.11-05.04.47:053][106]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.10.11-05.04.47:053][106]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.10.11-05.04.47:053][106]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.10.11-05.04.47:053][106]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.10.11-05.04.47:053][106]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.10.11-05.04.47:053][106]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.10.11-05.04.47:054][106]LogHMD: Freeing OpenVRDLLHandle.
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.10.11-05.04.47:054][106]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.10.11-05.04.47:055][106]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.10.11-05.04.47:055][106]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.10.11-05.04.47:067][106]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.10.11-05.04.47:068][106]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.10.11-05.04.47:068][106]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98CE920E-41C0-5180-146D-F581FE8DB291%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=e3b6dd8a4443f031ee8e219e36818618%7C4ab0484f3ff14252b5efd846b6a632d0%7C753b753a-98e5-4ebe-bd7e-24689afe0598&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.10.11-05.04.47:102][106]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.10.11-05.04.47:104][106]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.10.11-05.04.47:106][106]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.10.11-05.04.47:113][106]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.10.11-05.04.47:113][106]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.10.11-05.04.47:113][106]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.10.11-05.04.47:114][106]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.10.11-05.04.47:114][106]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.10.11-05.04.47:114][106]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.10.11-05.04.47:115][106]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.10.11-05.04.47:115][106]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.10.11-05.04.47:115][106]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.10.11-05.04.47:120][106]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.10.11-05.04.47:128][106]LogExit: Exiting.
+[2020.10.11-05.04.47:154][106]Log file closed, 10/11/20 01:04:47

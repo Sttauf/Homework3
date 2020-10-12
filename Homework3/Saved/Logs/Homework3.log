@@ -963,3 +963,109 @@ Script Stack (0 frames):
 [2020.10.12-18.39.09:730][306]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/ThirdPersonExampleMap_BuiltData9FC38A6B4848F9EDBC0F1A8A50911444.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2020.10.12-18.39.40:085][931]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/BP_Homework3/BP_CharacterHoomework3.BP_CharacterHoomework3
 [2020.10.12-18.39.41:989][ 83]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_CharacterHoomework330E2F26C44751E2D26912AAC0F84AB27.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_CharacterHoomework3.uasset'
+[2020.10.12-18.40.19:549][524]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.10.12-18.40.35:739][ 43]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/BP_Homework3/AM_Aim.AM_Aim
+[2020.10.12-18.40.35:745][ 43]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.10.12-18.40.35:754][ 43]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.12-18.40.35:778][ 43]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.12-18.40.38:207][229]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.12-18.40.38:657][283]LogSlate: Window 'AM_Aim' being destroyed
+[2020.10.12-18.42.13:334][625]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2020.10.12-18.42.16:585][ 14]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.12-18.42.32:119][744]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights
+[2020.10.12-18.42.32:119][744]LogAnimationCompression: Recompressing (AnimSequence /Game/AnimStarterPack/Idle_Rifle_Ironsights.Idle_Rifle_Ironsights) using current/default (AnimCompress_BitwiseCompressOnly_33) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.10.12-18.42.40:449][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Homework3/AM_Aim" FILE="../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/AM_Aim.uasset" SILENT=true
+[2020.10.12-18.42.40:460][734]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/AM_AimD2C6D54F4C9D5188DE69508B0C70CFFF.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/AM_Aim.uasset'
+[2020.10.12-18.44.34:570][198]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3
+[2020.10.12-18.44.34:590][198]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.12-18.44.34:983][198]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.12-18.44.35:407][198]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.12-18.49.29:063][915]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2020.10.12-18.49.29:063][915]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.155
+[2020.10.12-18.49.29:065][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Homework3/BP_AnimHomework3] ([1] browsable assets)...
+[2020.10.12-18.49.29:101][915]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3]
+[2020.10.12-18.49.29:101][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Homework3/BP_AnimHomework3]
+[2020.10.12-18.49.29:174][915]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3_Auto318E66E4C493E850F00432EAA8A4617F2.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/Autosaves/Game/BP_Homework3/BP_AnimHomework3_Auto3.uasset'
+[2020.10.12-18.49.29:175][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2020.10.12-18.49.29:175][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton]
+[2020.10.12-18.49.29:184][915]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/UE4_Mannequin_Skeleton_Auto39999E809403D27CF12D805A489B22BAD.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/Autosaves/Game/AnimStarterPack/UE4_Mannequin/Mesh/UE4_Mannequin_Skeleton_Auto3.uasset'
+[2020.10.12-18.49.29:185][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Homework3/AM_Aim] ([1] browsable assets)...
+[2020.10.12-18.49.29:219][915]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/BP_Homework3/AM_Aim.AM_Aim]
+[2020.10.12-18.49.29:219][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Homework3/AM_Aim]
+[2020.10.12-18.49.29:235][915]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/AM_Aim_Auto30A9C962746831BE56618A9BBB396099A.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/Autosaves/Game/BP_Homework3/AM_Aim_Auto3.uasset'
+[2020.10.12-18.49.29:237][915]LogFileHelpers: Auto-saving content packages took 0.172
+[2020.10.12-19.01.17:718][793]LogAssetEditorManager: Opening Asset editor for AnimMontage /Game/BP_Homework3/AM_Aim.AM_Aim
+[2020.10.12-19.01.17:734][793]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.12-19.01.17:753][793]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.10.12-19.01.18:111][793]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.10.12-19.01.21:985][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Homework3/AM_Aim" FILE="../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/AM_Aim.uasset" SILENT=true
+[2020.10.12-19.01.21:994][ 23]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/AM_Aim7907426C44D9C07E1128A18C55E47974.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/AM_Aim.uasset'
+[2020.10.12-19.02.15:433][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.10.12-19.02.15:433][267]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.062
+[2020.10.12-19.02.15:435][267]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP_Homework3/BP_AnimHomework3] ([1] browsable assets)...
+[2020.10.12-19.02.15:449][267]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3]
+[2020.10.12-19.02.15:449][267]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Homework3/BP_AnimHomework3]
+[2020.10.12-19.02.15:524][267]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3_Auto498ABD6FC44CDA397275921AF39F844C1.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/Autosaves/Game/BP_Homework3/BP_AnimHomework3_Auto4.uasset'
+[2020.10.12-19.02.15:526][267]LogFileHelpers: Auto-saving content packages took 0.091
+[2020.10.12-19.03.26:401][449]LogEditorTransaction: Undo Delete current selection
+[2020.10.12-19.03.26:584][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.12-19.03.26:587][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.10.12-19.04.45:649][870]BlueprintLog: New page: Compile BP_AnimHomework3
+[2020.10.12-19.04.45:795][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B4
+[2020.10.12-19.04.45:795][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01EA
+[2020.10.12-19.04.45:795][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_4:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:011F
+[2020.10.12-19.04.45:796][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B4
+[2020.10.12-19.04.45:796][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01EA
+[2020.10.12-19.04.45:796][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:011F
+[2020.10.12-19.04.45:832][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.10.12-19.04.45:842][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B4
+[2020.10.12-19.04.45:842][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01EA
+[2020.10.12-19.04.45:842][870]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:011F
+[2020.10.12-19.04.45:874][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B4
+[2020.10.12-19.04.45:875][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01EA
+[2020.10.12-19.04.45:875][871]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:011F
+[2020.10.12-19.04.45:891][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B4
+[2020.10.12-19.04.45:891][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01EA
+[2020.10.12-19.04.45:891][872]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:011F
+[2020.10.12-19.04.46:180][873]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/BP_AnimHomework3B8A3ADAF41D3C16D3A017FAD5413055A.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/BP_AnimHomework3.uasset'
+[2020.10.12-19.04.46:228][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01B4
+[2020.10.12-19.04.46:228][875]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BP_AnimHomework3_C /Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BP_AnimHomework3_C_1
+	Function /Game/BP_Homework3/BP_AnimHomework3.BP_AnimHomework3_C:ExecuteUbergraph_BP_AnimHomework3:01EA
+[2020.10.12-19.05.13:245][683]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Homework3/AM_Aim" FILE="../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/AM_Aim.uasset" SILENT=true
+[2020.10.12-19.05.13:262][683]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/AM_AimE20AEC044CF2EFAF68190BBBF0C41D0D.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/BP_Homework3/AM_Aim.uasset'
+[2020.10.12-19.05.18:905][974]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.10.12-19.05.19:079][974]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/ThirdPersonExampleMapB2D009784BF6A5D75944DC9B8980FD34.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.10.12-19.05.19:264][974]LogSavePackage: Moving '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Saved/ThirdPersonExampleMap_BuiltData5DE967B549F2A292892768A39ADB52CF.tmp' to '../../../../../../Users/sttau/OneDrive/Documentos/GitHub/Homework3/Homework3/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
